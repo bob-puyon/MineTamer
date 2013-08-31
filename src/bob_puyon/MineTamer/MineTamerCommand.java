@@ -1,4 +1,4 @@
-package bob_pyon.MineTamer;
+package bob_puyon.MineTamer;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
@@ -13,14 +13,7 @@ public class MineTamerCommand implements CommandExecutor {
 
 	@Override
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
-		// TODO:実装すべきコマンドとは？
-		// args:
-		// 1.status (alias:st)
-		// 2.list
-		// 3.buy
-		//***以下,admin系コマンド***
-		// 4.reload
-		// 5.give <player>(後で実装)
+		//ワールド名を指定して指定したワールドの
 		return true;
 	}
 
