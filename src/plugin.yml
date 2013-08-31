@@ -1,0 +1,10 @@
+name: MineTamer
+version: 1.0
+description: Tamed Animal Management.
+main: bob_puyon.MineTamer.PluginMain
+commands:
+  flylimiter:
+    description: This Plugin put a tame animal management
+    usage: /minetamer [operation]
+
+
